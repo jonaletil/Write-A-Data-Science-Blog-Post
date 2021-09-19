@@ -18,7 +18,7 @@ Code:
 - seattle_airbnb_analysis.ipynb
 
 ## Results
-The results of the analysis can be found in a blog post <a href="https://www.kaggle.com/airbnb/seattle/data" target="_blank">here</a>
+The results of the analysis can be found in a blog post <a href="https://medium.com/@jnaletil/seattle-airbnb-data-analysis-251768055492" target="_blank">here</a>
 
 ## Acknowledgements
 The used AirBnB data set is published along with the licensing terms on <a href="https://www.kaggle.com/airbnb/seattle/data" target="_blank">Kaggle</a>
