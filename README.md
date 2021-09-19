@@ -17,6 +17,12 @@ The following Airbnb activity is included in this Seattle dataset:
 Code:
 - seattle_airbnb_analysis.ipynb
 
+## Libraries used
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+
 ## Results
 The results of the analysis can be found in a blog post <a href="https://medium.com/@jnaletil/seattle-airbnb-data-analysis-251768055492" target="_blank">here</a>
 
